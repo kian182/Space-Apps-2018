@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-openweathermap",
+  "name": "ui",
   "version": "1.0.0",
   "description": "A JavaScript library for including OpenWeatherMap's layers and OWM's current city/station data in leaflet based maps without hassle.",
   "main": "leaflet-openweathermap.js",
